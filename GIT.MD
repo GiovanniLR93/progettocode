@@ -1,5 +1,7 @@
 # TITOLO
 # sottotitolo
-per mettere il file su cloud utilizzare github 
+* per mettere il file su cloud utilizzare github 
 
-per salvare le modifiche con git utilizzare il comand git add seguito dal nome del file
+* per salvare le modifiche con git utilizzare il comand git add seguito dal nome del file
+
+* git init per iniziare una nuova repository
