@@ -19,6 +19,8 @@
 
 8. "git push" - invia le modifiche al repository remoto.
 
-9. "git pull" - ottiene le modifiche dal repository remoto.
+9. "git pull" - ottiene le modifiche dal repository remoto. git pull origin e nome del branch
 
 10. "git log" - mostra la cronologia dei commit del repository Git
+11. "git remote add origin" (più url github) per caricare i progetti su github
+12. 
