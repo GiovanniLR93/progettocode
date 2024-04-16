@@ -80,4 +80,5 @@
 - `git push origin nome_ramo`: Carica un ramo nel repository remoto origin.
 - `git pull origin nome_ramo`: Tira i cambiamenti dal repository remoto origin e fonde con il ramo corrente.
 
+
 Questi sono solo alcuni dei comandi più comuni e utili in Git. Puoi ottenere ulteriori informazioni su ciascun comando eseguendo `git help nome_comando` o consultando la documentazione di Git online.
